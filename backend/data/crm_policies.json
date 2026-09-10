@@ -1,0 +1,401 @@
+[
+  {
+    "crm_id": "CUST-0001",
+    "product_id": "POL-9928",
+    "type": "home",
+    "status": "active",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0002",
+    "product_id": "POL-3664",
+    "type": "auto",
+    "status": "active",
+    "started": "2019"
+  },
+  {
+    "crm_id": "CUST-0003",
+    "product_id": "POL-3621",
+    "type": "home",
+    "status": "lapsed",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0004",
+    "product_id": "POL-3504",
+    "type": "auto",
+    "status": "active",
+    "started": "2022"
+  },
+  {
+    "crm_id": "CUST-0006",
+    "product_id": "POL-1887",
+    "type": "health",
+    "status": "active",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0006",
+    "product_id": "POL-6559",
+    "type": "health",
+    "status": "active",
+    "started": "2019"
+  },
+  {
+    "crm_id": "CUST-0010",
+    "product_id": "POL-5669",
+    "type": "life",
+    "status": "active",
+    "started": "2022"
+  },
+  {
+    "crm_id": "CUST-0011",
+    "product_id": "POL-4441",
+    "type": "life",
+    "status": "lapsed",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0014",
+    "product_id": "POL-1027",
+    "type": "life",
+    "status": "active",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0014",
+    "product_id": "POL-2146",
+    "type": "auto",
+    "status": "lapsed",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0017",
+    "product_id": "POL-6502",
+    "type": "auto",
+    "status": "lapsed",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0018",
+    "product_id": "POL-8814",
+    "type": "health",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0018",
+    "product_id": "POL-7389",
+    "type": "home",
+    "status": "lapsed",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0020",
+    "product_id": "POL-2771",
+    "type": "health",
+    "status": "active",
+    "started": "2022"
+  },
+  {
+    "crm_id": "CUST-0021",
+    "product_id": "POL-6511",
+    "type": "health",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0021",
+    "product_id": "POL-3979",
+    "type": "home",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0022",
+    "product_id": "POL-7971",
+    "type": "auto",
+    "status": "active",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0026",
+    "product_id": "POL-6700",
+    "type": "home",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0026",
+    "product_id": "POL-2713",
+    "type": "life",
+    "status": "active",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0027",
+    "product_id": "POL-9337",
+    "type": "auto",
+    "status": "active",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0028",
+    "product_id": "POL-7274",
+    "type": "life",
+    "status": "active",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0031",
+    "product_id": "POL-5000",
+    "type": "home",
+    "status": "lapsed",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0034",
+    "product_id": "POL-5106",
+    "type": "life",
+    "status": "lapsed",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0035",
+    "product_id": "POL-2035",
+    "type": "home",
+    "status": "lapsed",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0036",
+    "product_id": "POL-2124",
+    "type": "life",
+    "status": "lapsed",
+    "started": "2019"
+  },
+  {
+    "crm_id": "CUST-0038",
+    "product_id": "POL-1710",
+    "type": "auto",
+    "status": "active",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0045",
+    "product_id": "POL-1744",
+    "type": "life",
+    "status": "active",
+    "started": "2022"
+  },
+  {
+    "crm_id": "CUST-0046",
+    "product_id": "POL-2180",
+    "type": "home",
+    "status": "lapsed",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0047",
+    "product_id": "POL-3754",
+    "type": "health",
+    "status": "lapsed",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0053",
+    "product_id": "POL-2264",
+    "type": "auto",
+    "status": "active",
+    "started": "2022"
+  },
+  {
+    "crm_id": "CUST-0056",
+    "product_id": "POL-1461",
+    "type": "auto",
+    "status": "active",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0058",
+    "product_id": "POL-4302",
+    "type": "health",
+    "status": "active",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0061",
+    "product_id": "POL-1510",
+    "type": "life",
+    "status": "lapsed",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0063",
+    "product_id": "POL-4878",
+    "type": "home",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0066",
+    "product_id": "POL-7653",
+    "type": "auto",
+    "status": "active",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0071",
+    "product_id": "POL-5350",
+    "type": "life",
+    "status": "lapsed",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0071",
+    "product_id": "POL-8871",
+    "type": "life",
+    "status": "lapsed",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0073",
+    "product_id": "POL-5201",
+    "type": "home",
+    "status": "active",
+    "started": "2019"
+  },
+  {
+    "crm_id": "CUST-0073",
+    "product_id": "POL-9824",
+    "type": "auto",
+    "status": "lapsed",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0076",
+    "product_id": "POL-5215",
+    "type": "life",
+    "status": "active",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0076",
+    "product_id": "POL-6523",
+    "type": "auto",
+    "status": "lapsed",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0077",
+    "product_id": "POL-8319",
+    "type": "auto",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0078",
+    "product_id": "POL-9792",
+    "type": "life",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0080",
+    "product_id": "POL-1056",
+    "type": "health",
+    "status": "active",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0082",
+    "product_id": "POL-4692",
+    "type": "auto",
+    "status": "lapsed",
+    "started": "2019"
+  },
+  {
+    "crm_id": "CUST-0084",
+    "product_id": "POL-6053",
+    "type": "auto",
+    "status": "active",
+    "started": "2022"
+  },
+  {
+    "crm_id": "CUST-0085",
+    "product_id": "POL-5216",
+    "type": "home",
+    "status": "lapsed",
+    "started": "2023"
+  },
+  {
+    "crm_id": "CUST-0086",
+    "product_id": "POL-5379",
+    "type": "home",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0088",
+    "product_id": "POL-3661",
+    "type": "life",
+    "status": "lapsed",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0089",
+    "product_id": "POL-5419",
+    "type": "health",
+    "status": "active",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0090",
+    "product_id": "POL-9537",
+    "type": "life",
+    "status": "lapsed",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0091",
+    "product_id": "POL-4203",
+    "type": "home",
+    "status": "active",
+    "started": "2019"
+  },
+  {
+    "crm_id": "CUST-0091",
+    "product_id": "POL-5991",
+    "type": "health",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0094",
+    "product_id": "POL-1402",
+    "type": "home",
+    "status": "active",
+    "started": "2020"
+  },
+  {
+    "crm_id": "CUST-0095",
+    "product_id": "POL-3623",
+    "type": "auto",
+    "status": "lapsed",
+    "started": "2021"
+  },
+  {
+    "crm_id": "CUST-0096",
+    "product_id": "POL-7367",
+    "type": "home",
+    "status": "lapsed",
+    "started": "2018"
+  },
+  {
+    "crm_id": "CUST-0097",
+    "product_id": "POL-3733",
+    "type": "home",
+    "status": "active",
+    "started": "2019"
+  }
+]

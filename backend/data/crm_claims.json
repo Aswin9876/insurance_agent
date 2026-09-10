@@ -1,0 +1,714 @@
+[
+  {
+    "crm_id": "CUST-0001",
+    "claim_id": "CLM-287142",
+    "type": "health",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2026-01-06"
+  },
+  {
+    "crm_id": "CUST-0001",
+    "claim_id": "CLM-008687",
+    "type": "home",
+    "amount": 500,
+    "status": "settled",
+    "date": "2026-02-23"
+  },
+  {
+    "crm_id": "CUST-0002",
+    "claim_id": "CLM-296617",
+    "type": "health",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2025-01-28"
+  },
+  {
+    "crm_id": "CUST-0002",
+    "claim_id": "CLM-965687",
+    "type": "health",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2024-10-26"
+  },
+  {
+    "crm_id": "CUST-0002",
+    "claim_id": "CLM-409572",
+    "type": "auto",
+    "amount": 8000,
+    "status": "pending",
+    "date": "2024-01-07"
+  },
+  {
+    "crm_id": "CUST-0003",
+    "claim_id": "CLM-395980",
+    "type": "home",
+    "amount": 500,
+    "status": "pending",
+    "date": "2023-07-31"
+  },
+  {
+    "crm_id": "CUST-0004",
+    "claim_id": "CLM-954139",
+    "type": "auto",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2025-03-28"
+  },
+  {
+    "crm_id": "CUST-0004",
+    "claim_id": "CLM-890407",
+    "type": "health",
+    "amount": 1200,
+    "status": "pending",
+    "date": "2023-12-04"
+  },
+  {
+    "crm_id": "CUST-0005",
+    "claim_id": "CLM-055070",
+    "type": "health",
+    "amount": 500,
+    "status": "settled",
+    "date": "2026-03-11"
+  },
+  {
+    "crm_id": "CUST-0009",
+    "claim_id": "CLM-015621",
+    "type": "home",
+    "amount": 1200,
+    "status": "pending",
+    "date": "2023-04-04"
+  },
+  {
+    "crm_id": "CUST-0009",
+    "claim_id": "CLM-006532",
+    "type": "home",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2025-04-02"
+  },
+  {
+    "crm_id": "CUST-0010",
+    "claim_id": "CLM-398565",
+    "type": "home",
+    "amount": 500,
+    "status": "settled",
+    "date": "2025-02-08"
+  },
+  {
+    "crm_id": "CUST-0010",
+    "claim_id": "CLM-115267",
+    "type": "health",
+    "amount": 42000,
+    "status": "pending",
+    "date": "2025-02-09"
+  },
+  {
+    "crm_id": "CUST-0010",
+    "claim_id": "CLM-529068",
+    "type": "health",
+    "amount": 500,
+    "status": "settled",
+    "date": "2025-11-09"
+  },
+  {
+    "crm_id": "CUST-0011",
+    "claim_id": "CLM-784619",
+    "type": "health",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2024-04-11"
+  },
+  {
+    "crm_id": "CUST-0014",
+    "claim_id": "CLM-873344",
+    "type": "auto",
+    "amount": 15000,
+    "status": "settled",
+    "date": "2025-07-07"
+  },
+  {
+    "crm_id": "CUST-0014",
+    "claim_id": "CLM-496963",
+    "type": "home",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2024-11-19"
+  },
+  {
+    "crm_id": "CUST-0014",
+    "claim_id": "CLM-245644",
+    "type": "health",
+    "amount": 15000,
+    "status": "settled",
+    "date": "2025-08-21"
+  },
+  {
+    "crm_id": "CUST-0015",
+    "claim_id": "CLM-461642",
+    "type": "home",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2025-12-28"
+  },
+  {
+    "crm_id": "CUST-0018",
+    "claim_id": "CLM-562240",
+    "type": "auto",
+    "amount": 42000,
+    "status": "pending",
+    "date": "2024-04-27"
+  },
+  {
+    "crm_id": "CUST-0018",
+    "claim_id": "CLM-789959",
+    "type": "home",
+    "amount": 15000,
+    "status": "pending",
+    "date": "2026-06-09"
+  },
+  {
+    "crm_id": "CUST-0018",
+    "claim_id": "CLM-048123",
+    "type": "auto",
+    "amount": 3500,
+    "status": "settled",
+    "date": "2024-06-18"
+  },
+  {
+    "crm_id": "CUST-0020",
+    "claim_id": "CLM-939158",
+    "type": "health",
+    "amount": 500,
+    "status": "pending",
+    "date": "2024-11-24"
+  },
+  {
+    "crm_id": "CUST-0020",
+    "claim_id": "CLM-861973",
+    "type": "auto",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2026-03-15"
+  },
+  {
+    "crm_id": "CUST-0020",
+    "claim_id": "CLM-538819",
+    "type": "home",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2022-08-16"
+  },
+  {
+    "crm_id": "CUST-0021",
+    "claim_id": "CLM-387209",
+    "type": "health",
+    "amount": 1200,
+    "status": "pending",
+    "date": "2024-04-23"
+  },
+  {
+    "crm_id": "CUST-0022",
+    "claim_id": "CLM-221115",
+    "type": "home",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2025-05-17"
+  },
+  {
+    "crm_id": "CUST-0023",
+    "claim_id": "CLM-296710",
+    "type": "auto",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2024-02-13"
+  },
+  {
+    "crm_id": "CUST-0023",
+    "claim_id": "CLM-392810",
+    "type": "auto",
+    "amount": 500,
+    "status": "pending",
+    "date": "2023-01-22"
+  },
+  {
+    "crm_id": "CUST-0024",
+    "claim_id": "CLM-907620",
+    "type": "health",
+    "amount": 1200,
+    "status": "pending",
+    "date": "2026-03-03"
+  },
+  {
+    "crm_id": "CUST-0024",
+    "claim_id": "CLM-146402",
+    "type": "auto",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2026-03-11"
+  },
+  {
+    "crm_id": "CUST-0025",
+    "claim_id": "CLM-669540",
+    "type": "health",
+    "amount": 8000,
+    "status": "pending",
+    "date": "2024-10-12"
+  },
+  {
+    "crm_id": "CUST-0026",
+    "claim_id": "CLM-464700",
+    "type": "auto",
+    "amount": 3500,
+    "status": "settled",
+    "date": "2024-04-28"
+  },
+  {
+    "crm_id": "CUST-0026",
+    "claim_id": "CLM-880840",
+    "type": "home",
+    "amount": 3500,
+    "status": "pending",
+    "date": "2023-10-18"
+  },
+  {
+    "crm_id": "CUST-0026",
+    "claim_id": "CLM-672594",
+    "type": "home",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2026-06-05"
+  },
+  {
+    "crm_id": "CUST-0027",
+    "claim_id": "CLM-253958",
+    "type": "health",
+    "amount": 3500,
+    "status": "settled",
+    "date": "2024-09-06"
+  },
+  {
+    "crm_id": "CUST-0028",
+    "claim_id": "CLM-778368",
+    "type": "health",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2025-11-18"
+  },
+  {
+    "crm_id": "CUST-0034",
+    "claim_id": "CLM-634570",
+    "type": "auto",
+    "amount": 3500,
+    "status": "pending",
+    "date": "2024-04-05"
+  },
+  {
+    "crm_id": "CUST-0034",
+    "claim_id": "CLM-115959",
+    "type": "health",
+    "amount": 3500,
+    "status": "settled",
+    "date": "2024-12-07"
+  },
+  {
+    "crm_id": "CUST-0034",
+    "claim_id": "CLM-731919",
+    "type": "home",
+    "amount": 42000,
+    "status": "pending",
+    "date": "2024-05-12"
+  },
+  {
+    "crm_id": "CUST-0035",
+    "claim_id": "CLM-419340",
+    "type": "home",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2024-01-17"
+  },
+  {
+    "crm_id": "CUST-0035",
+    "claim_id": "CLM-396557",
+    "type": "auto",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2023-11-05"
+  },
+  {
+    "crm_id": "CUST-0035",
+    "claim_id": "CLM-692624",
+    "type": "health",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2026-01-12"
+  },
+  {
+    "crm_id": "CUST-0041",
+    "claim_id": "CLM-078555",
+    "type": "auto",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2024-04-14"
+  },
+  {
+    "crm_id": "CUST-0042",
+    "claim_id": "CLM-588986",
+    "type": "home",
+    "amount": 15000,
+    "status": "settled",
+    "date": "2023-03-05"
+  },
+  {
+    "crm_id": "CUST-0046",
+    "claim_id": "CLM-098557",
+    "type": "auto",
+    "amount": 3500,
+    "status": "settled",
+    "date": "2024-04-26"
+  },
+  {
+    "crm_id": "CUST-0051",
+    "claim_id": "CLM-607956",
+    "type": "auto",
+    "amount": 3500,
+    "status": "settled",
+    "date": "2024-06-01"
+  },
+  {
+    "crm_id": "CUST-0051",
+    "claim_id": "CLM-435760",
+    "type": "health",
+    "amount": 15000,
+    "status": "pending",
+    "date": "2024-06-03"
+  },
+  {
+    "crm_id": "CUST-0053",
+    "claim_id": "CLM-880371",
+    "type": "auto",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2025-07-29"
+  },
+  {
+    "crm_id": "CUST-0053",
+    "claim_id": "CLM-878144",
+    "type": "home",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2024-02-06"
+  },
+  {
+    "crm_id": "CUST-0056",
+    "claim_id": "CLM-310948",
+    "type": "home",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2023-02-20"
+  },
+  {
+    "crm_id": "CUST-0056",
+    "claim_id": "CLM-002857",
+    "type": "home",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2024-12-21"
+  },
+  {
+    "crm_id": "CUST-0056",
+    "claim_id": "CLM-212660",
+    "type": "auto",
+    "amount": 15000,
+    "status": "pending",
+    "date": "2026-07-01"
+  },
+  {
+    "crm_id": "CUST-0057",
+    "claim_id": "CLM-803373",
+    "type": "health",
+    "amount": 3500,
+    "status": "settled",
+    "date": "2022-11-27"
+  },
+  {
+    "crm_id": "CUST-0058",
+    "claim_id": "CLM-959527",
+    "type": "health",
+    "amount": 3500,
+    "status": "settled",
+    "date": "2026-04-28"
+  },
+  {
+    "crm_id": "CUST-0061",
+    "claim_id": "CLM-007335",
+    "type": "home",
+    "amount": 1200,
+    "status": "pending",
+    "date": "2024-01-25"
+  },
+  {
+    "crm_id": "CUST-0062",
+    "claim_id": "CLM-772669",
+    "type": "health",
+    "amount": 500,
+    "status": "settled",
+    "date": "2026-03-05"
+  },
+  {
+    "crm_id": "CUST-0063",
+    "claim_id": "CLM-549180",
+    "type": "auto",
+    "amount": 42000,
+    "status": "pending",
+    "date": "2023-11-27"
+  },
+  {
+    "crm_id": "CUST-0063",
+    "claim_id": "CLM-578096",
+    "type": "auto",
+    "amount": 8000,
+    "status": "pending",
+    "date": "2023-09-09"
+  },
+  {
+    "crm_id": "CUST-0066",
+    "claim_id": "CLM-044263",
+    "type": "home",
+    "amount": 3500,
+    "status": "pending",
+    "date": "2024-08-26"
+  },
+  {
+    "crm_id": "CUST-0066",
+    "claim_id": "CLM-913534",
+    "type": "auto",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2025-10-19"
+  },
+  {
+    "crm_id": "CUST-0066",
+    "claim_id": "CLM-023628",
+    "type": "health",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2023-05-08"
+  },
+  {
+    "crm_id": "CUST-0069",
+    "claim_id": "CLM-395316",
+    "type": "auto",
+    "amount": 15000,
+    "status": "settled",
+    "date": "2026-05-03"
+  },
+  {
+    "crm_id": "CUST-0071",
+    "claim_id": "CLM-681609",
+    "type": "health",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2024-02-12"
+  },
+  {
+    "crm_id": "CUST-0071",
+    "claim_id": "CLM-316479",
+    "type": "home",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2022-08-19"
+  },
+  {
+    "crm_id": "CUST-0071",
+    "claim_id": "CLM-123653",
+    "type": "health",
+    "amount": 8000,
+    "status": "pending",
+    "date": "2024-09-01"
+  },
+  {
+    "crm_id": "CUST-0073",
+    "claim_id": "CLM-165265",
+    "type": "home",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2026-01-10"
+  },
+  {
+    "crm_id": "CUST-0077",
+    "claim_id": "CLM-706601",
+    "type": "auto",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2022-09-28"
+  },
+  {
+    "crm_id": "CUST-0077",
+    "claim_id": "CLM-587319",
+    "type": "auto",
+    "amount": 3500,
+    "status": "pending",
+    "date": "2025-05-08"
+  },
+  {
+    "crm_id": "CUST-0078",
+    "claim_id": "CLM-467484",
+    "type": "health",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2023-09-17"
+  },
+  {
+    "crm_id": "CUST-0078",
+    "claim_id": "CLM-455630",
+    "type": "auto",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2025-05-14"
+  },
+  {
+    "crm_id": "CUST-0080",
+    "claim_id": "CLM-743241",
+    "type": "health",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2026-05-30"
+  },
+  {
+    "crm_id": "CUST-0080",
+    "claim_id": "CLM-847802",
+    "type": "health",
+    "amount": 15000,
+    "status": "settled",
+    "date": "2024-02-01"
+  },
+  {
+    "crm_id": "CUST-0080",
+    "claim_id": "CLM-570742",
+    "type": "health",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2025-10-21"
+  },
+  {
+    "crm_id": "CUST-0082",
+    "claim_id": "CLM-959512",
+    "type": "health",
+    "amount": 3500,
+    "status": "pending",
+    "date": "2026-02-23"
+  },
+  {
+    "crm_id": "CUST-0084",
+    "claim_id": "CLM-487732",
+    "type": "auto",
+    "amount": 8000,
+    "status": "settled",
+    "date": "2023-06-08"
+  },
+  {
+    "crm_id": "CUST-0085",
+    "claim_id": "CLM-417174",
+    "type": "home",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2023-08-26"
+  },
+  {
+    "crm_id": "CUST-0085",
+    "claim_id": "CLM-089674",
+    "type": "home",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2022-08-16"
+  },
+  {
+    "crm_id": "CUST-0085",
+    "claim_id": "CLM-124069",
+    "type": "auto",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2026-07-02"
+  },
+  {
+    "crm_id": "CUST-0086",
+    "claim_id": "CLM-426280",
+    "type": "home",
+    "amount": 130000,
+    "status": "settled",
+    "date": "2026-01-24"
+  },
+  {
+    "crm_id": "CUST-0088",
+    "claim_id": "CLM-837197",
+    "type": "home",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2026-04-16"
+  },
+  {
+    "crm_id": "CUST-0088",
+    "claim_id": "CLM-020665",
+    "type": "auto",
+    "amount": 500,
+    "status": "pending",
+    "date": "2025-01-21"
+  },
+  {
+    "crm_id": "CUST-0088",
+    "claim_id": "CLM-742531",
+    "type": "home",
+    "amount": 42000,
+    "status": "settled",
+    "date": "2026-02-09"
+  },
+  {
+    "crm_id": "CUST-0091",
+    "claim_id": "CLM-384486",
+    "type": "home",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2024-10-16"
+  },
+  {
+    "crm_id": "CUST-0091",
+    "claim_id": "CLM-664133",
+    "type": "home",
+    "amount": 42000,
+    "status": "pending",
+    "date": "2023-11-02"
+  },
+  {
+    "crm_id": "CUST-0092",
+    "claim_id": "CLM-613214",
+    "type": "auto",
+    "amount": 500,
+    "status": "settled",
+    "date": "2023-03-28"
+  },
+  {
+    "crm_id": "CUST-0094",
+    "claim_id": "CLM-908733",
+    "type": "health",
+    "amount": 15000,
+    "status": "settled",
+    "date": "2024-08-20"
+  },
+  {
+    "crm_id": "CUST-0095",
+    "claim_id": "CLM-241640",
+    "type": "home",
+    "amount": 1200,
+    "status": "settled",
+    "date": "2023-04-09"
+  },
+  {
+    "crm_id": "CUST-0096",
+    "claim_id": "CLM-341689",
+    "type": "home",
+    "amount": 500,
+    "status": "pending",
+    "date": "2025-11-02"
+  }
+]

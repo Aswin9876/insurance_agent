@@ -1,0 +1,514 @@
+[
+  {
+    "crm_id": "CUST-0001",
+    "first_name": "Arjun",
+    "last_name": "Patel",
+    "email": "arjun.patel1@example.com",
+    "customer_since": "2015",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0002",
+    "first_name": "Nina",
+    "last_name": "Kim",
+    "email": "nina.kim2@example.com",
+    "customer_since": "2022",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0003",
+    "first_name": "Ethan",
+    "last_name": "Kim",
+    "email": "ethan.kim3@example.com",
+    "customer_since": "2015",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0004",
+    "first_name": "Rohan",
+    "last_name": "Rao",
+    "email": "rohan.rao4@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0005",
+    "first_name": "Nina",
+    "last_name": "Johnson",
+    "email": "nina.johnson5@example.com",
+    "customer_since": "2018",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0006",
+    "first_name": "Dev",
+    "last_name": "Garcia",
+    "email": "dev.garcia6@example.com",
+    "customer_since": "2021",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0009",
+    "first_name": "Aisha",
+    "last_name": "Smith",
+    "email": "aisha.smith9@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0010",
+    "first_name": "Rohan",
+    "last_name": "Smith",
+    "email": "rohan.smith10@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0011",
+    "first_name": "Arjun",
+    "last_name": "Kim",
+    "email": "arjun.kim11@example.com",
+    "customer_since": "2020",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0013",
+    "first_name": "Owen",
+    "last_name": "Chen",
+    "email": "owen.chen13@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0014",
+    "first_name": "Rohan",
+    "last_name": "Johnson",
+    "email": "rohan.johnson14@example.com",
+    "customer_since": "2015",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0015",
+    "first_name": "Ivy",
+    "last_name": "Patel",
+    "email": "ivy.patel15@example.com",
+    "customer_since": "2022",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0017",
+    "first_name": "Dev",
+    "last_name": "Smith",
+    "email": "dev.smith17@example.com",
+    "customer_since": "2019",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0018",
+    "first_name": "Ethan",
+    "last_name": "Garcia",
+    "email": "ethan.garcia18@example.com",
+    "customer_since": "2015",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0020",
+    "first_name": "Aarav",
+    "last_name": "Garcia",
+    "email": "aarav.garcia20@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0021",
+    "first_name": "Ethan",
+    "last_name": "Smith",
+    "email": "ethan.smith21@example.com",
+    "customer_since": "2022",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0022",
+    "first_name": "Mia",
+    "last_name": "Mehta",
+    "email": "mia.mehta22@example.com",
+    "customer_since": "2020",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0023",
+    "first_name": "Nora",
+    "last_name": "Khan",
+    "email": "nora.khan23@example.com",
+    "customer_since": "2019",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0024",
+    "first_name": "Ivy",
+    "last_name": "Sharma",
+    "email": "ivy.sharma24@example.com",
+    "customer_since": "2021",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0025",
+    "first_name": "Ivy",
+    "last_name": "Garcia",
+    "email": "ivy.garcia25@example.com",
+    "customer_since": "2019",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0026",
+    "first_name": "Lea",
+    "last_name": "Kim",
+    "email": "lea.kim26@example.com",
+    "customer_since": "2022",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0027",
+    "first_name": "Arjun",
+    "last_name": "Brown",
+    "email": "arjun.brown27@example.com",
+    "customer_since": "2017",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0028",
+    "first_name": "Dev",
+    "last_name": "Kim",
+    "email": "dev.kim28@example.com",
+    "customer_since": "2018",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0031",
+    "first_name": "Emma",
+    "last_name": "Wilson",
+    "email": "emma.wilson31@example.com",
+    "customer_since": "2020",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0033",
+    "first_name": "Owen",
+    "last_name": "Martin",
+    "email": "owen.martin33@example.com",
+    "customer_since": "2021",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0034",
+    "first_name": "Kabir",
+    "last_name": "Brown",
+    "email": "kabir.brown34@example.com",
+    "customer_since": "2020",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0035",
+    "first_name": "Nina",
+    "last_name": "Chen",
+    "email": "nina.chen35@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0036",
+    "first_name": "Ivy",
+    "last_name": "Chen",
+    "email": "ivy.chen36@example.com",
+    "customer_since": "2017",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0038",
+    "first_name": "Jack",
+    "last_name": "Chen",
+    "email": "jack.chen38@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0041",
+    "first_name": "Zara",
+    "last_name": "Chen",
+    "email": "zara.chen41@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0042",
+    "first_name": "Chloe",
+    "last_name": "Lee",
+    "email": "chloe.lee42@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0043",
+    "first_name": "Ivy",
+    "last_name": "Lee",
+    "email": "ivy.lee43@example.com",
+    "customer_since": "2017",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0045",
+    "first_name": "Maya",
+    "last_name": "Davis",
+    "email": "maya.davis45@example.com",
+    "customer_since": "2022",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0046",
+    "first_name": "Aarav",
+    "last_name": "Garcia",
+    "email": "aarav.garcia46@example.com",
+    "customer_since": "2018",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0047",
+    "first_name": "Aarav",
+    "last_name": "Chen",
+    "email": "aarav.chen47@example.com",
+    "customer_since": "2020",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0051",
+    "first_name": "Liam",
+    "last_name": "Brown",
+    "email": "liam.brown51@example.com",
+    "customer_since": "2020",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0053",
+    "first_name": "Lucas",
+    "last_name": "Lee",
+    "email": "lucas.lee53@example.com",
+    "customer_since": "2018",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0056",
+    "first_name": "Rohan",
+    "last_name": "Khan",
+    "email": "rohan.khan56@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0057",
+    "first_name": "Arjun",
+    "last_name": "Mehta",
+    "email": "arjun.mehta57@example.com",
+    "customer_since": "2020",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0058",
+    "first_name": "Arjun",
+    "last_name": "Patel",
+    "email": "arjun.patel58@example.com",
+    "customer_since": "2022",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0061",
+    "first_name": "Zara",
+    "last_name": "Johnson",
+    "email": "zara.johnson61@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0062",
+    "first_name": "Chloe",
+    "last_name": "Chen",
+    "email": "chloe.chen62@example.com",
+    "customer_since": "2021",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0063",
+    "first_name": "Owen",
+    "last_name": "Johnson",
+    "email": "owen.johnson63@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0066",
+    "first_name": "Lea",
+    "last_name": "Chen",
+    "email": "lea.chen66@example.com",
+    "customer_since": "2019",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0069",
+    "first_name": "Kabir",
+    "last_name": "Chen",
+    "email": "kabir.chen69@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0071",
+    "first_name": "Aisha",
+    "last_name": "Brown",
+    "email": "aisha.brown71@example.com",
+    "customer_since": "2015",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0073",
+    "first_name": "Mia",
+    "last_name": "Chen",
+    "email": "mia.chen73@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0076",
+    "first_name": "Aisha",
+    "last_name": "Martin",
+    "email": "aisha.martin76@example.com",
+    "customer_since": "2017",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0077",
+    "first_name": "Priya",
+    "last_name": "Brown",
+    "email": "priya.brown77@example.com",
+    "customer_since": "2019",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0078",
+    "first_name": "Emma",
+    "last_name": "Johnson",
+    "email": "emma.johnson78@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0080",
+    "first_name": "Nora",
+    "last_name": "Davis",
+    "email": "nora.davis80@example.com",
+    "customer_since": "2017",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0082",
+    "first_name": "Nora",
+    "last_name": "Martin",
+    "email": "nora.martin82@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0084",
+    "first_name": "Lucas",
+    "last_name": "Kim",
+    "email": "lucas.kim84@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0085",
+    "first_name": "Emma",
+    "last_name": "Wilson",
+    "email": "emma.wilson85@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0086",
+    "first_name": "Aarav",
+    "last_name": "Mehta",
+    "email": "aarav.mehta86@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0088",
+    "first_name": "Sam",
+    "last_name": "Martin",
+    "email": "sam.martin88@example.com",
+    "customer_since": "2021",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0089",
+    "first_name": "Lea",
+    "last_name": "Kim",
+    "email": "lea.kim89@example.com",
+    "customer_since": "2019",
+    "loyalty_tier": "silver"
+  },
+  {
+    "crm_id": "CUST-0090",
+    "first_name": "Zara",
+    "last_name": "Khan",
+    "email": "zara.khan90@example.com",
+    "customer_since": "2016",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0091",
+    "first_name": "Ethan",
+    "last_name": "Kim",
+    "email": "ethan.kim91@example.com",
+    "customer_since": "2018",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0092",
+    "first_name": "Jack",
+    "last_name": "Rao",
+    "email": "jack.rao92@example.com",
+    "customer_since": "2019",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0094",
+    "first_name": "Jack",
+    "last_name": "Davis",
+    "email": "jack.davis94@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "bronze"
+  },
+  {
+    "crm_id": "CUST-0095",
+    "first_name": "Mia",
+    "last_name": "Patel",
+    "email": "mia.patel95@example.com",
+    "customer_since": "2018",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0096",
+    "first_name": "Zara",
+    "last_name": "Smith",
+    "email": "zara.smith96@example.com",
+    "customer_since": "2022",
+    "loyalty_tier": "gold"
+  },
+  {
+    "crm_id": "CUST-0097",
+    "first_name": "Lucas",
+    "last_name": "Patel",
+    "email": "lucas.patel97@example.com",
+    "customer_since": "2023",
+    "loyalty_tier": "gold"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "HLB-001",
+    "name": "Health Basic",
+    "category": "health",
+    "premium": 12000,
+    "coverage": "Hospitalization up to $50,000, day-care procedures, ambulance cover",
+    "eligibility": {"min_age": 18, "max_age": 65, "max_income": null, "allowed_risk": ["low", "medium", "high", "critical"]},
+    "risk_appetite": {"min_score": 0, "max_score": 100},
+    "summary": "Affordable entry-level health cover for individuals."
+  },
+  {
+    "product_id": "HLP-002",
+    "name": "Health Premium",
+    "category": "health",
+    "premium": 28000,
+    "coverage": "Hospitalization up to $250,000, critical illness rider, annual health checkups, maternity",
+    "eligibility": {"min_age": 18, "max_age": 60, "max_income": null, "allowed_risk": ["low", "medium", "high"]},
+    "risk_appetite": {"min_score": 0, "max_score": 75},
+    "summary": "Comprehensive individual health plan with critical illness protection."
+  },
+  {
+    "product_id": "HLF-003",
+    "name": "Health Family",
+    "category": "health",
+    "premium": 35000,
+    "coverage": "Family floater up to $500,000, covers spouse + 2 children, free vaccinations",
+    "eligibility": {"min_age": 21, "max_age": 60, "marital_status": ["married"], "allowed_risk": ["low", "medium", "high"]},
+    "risk_appetite": {"min_score": 0, "max_score": 75},
+    "summary": "One family floater plan covering the entire household."
+  },
+  {
+    "product_id": "LFE-004",
+    "name": "Life Essential",
+    "category": "life",
+    "premium": 8500,
+    "coverage": "Term life cover of $100,000 for 20 years",
+    "eligibility": {"min_age": 18, "max_age": 60, "allowed_risk": ["low", "medium", "high", "critical"]},
+    "risk_appetite": {"min_score": 0, "max_score": 100},
+    "summary": "Simple low-cost term insurance for income protection."
+  },
+  {
+    "product_id": "LFP-005",
+    "name": "Life Premium",
+    "category": "life",
+    "premium": 22000,
+    "coverage": "Term life cover of $500,000 for 30 years + accidental death benefit + return of premium",
+    "eligibility": {"min_age": 22, "max_age": 55, "min_income": 30000, "allowed_risk": ["low", "medium"]},
+    "risk_appetite": {"min_score": 0, "max_score": 50},
+    "summary": "High-coverage term plan with wealth-back option for stable profiles."
+  },
+  {
+    "product_id": "AUT-006",
+    "name": "Auto Standard",
+    "category": "auto",
+    "premium": 9500,
+    "coverage": "Third-party liability + own damage up to vehicle value $30,000",
+    "eligibility": {"min_age": 18, "max_age": 75, "allowed_risk": ["low", "medium", "high"]},
+    "risk_appetite": {"min_score": 0, "max_score": 75},
+    "summary": "Standard motor insurance covering liability and own damage."
+  },
+  {
+    "product_id": "AUC-007",
+    "name": "Auto Comprehensive",
+    "category": "auto",
+    "premium": 18500,
+    "coverage": "Full own damage up to $80,000, zero depreciation, roadside assistance, engine protect",
+    "eligibility": {"min_age": 21, "max_age": 65, "min_income": 25000, "allowed_risk": ["low", "medium"]},
+    "risk_appetite": {"min_score": 0, "max_score": 50},
+    "summary": "Premium motor cover with zero-depreciation and add-ons."
+  },
+  {
+    "product_id": "HMS-008",
+    "name": "Home Secure",
+    "category": "home",
+    "premium": 7500,
+    "coverage": "Building + contents cover up to $200,000, fire, theft, natural calamities",
+    "eligibility": {"min_age": 21, "max_age": 70, "allowed_risk": ["low", "medium", "high", "critical"]},
+    "risk_appetite": {"min_score": 0, "max_score": 100},
+    "summary": "Protects your home structure and belongings against disasters."
+  }
+]
